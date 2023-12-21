@@ -10,7 +10,7 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 ## HTTP Referer Spoofing
 It involves sending HTTP requests with a fake or manipulated referer (referrer) header to make it appear as if the requests are coming from legitimate sources, such as search engine queries or social media shares.
 ## Screenshot:
-![image](https://github.com/Vip3rLi0n/Stresser7/assets/21289340/9d454724-5d52-4298-a215-c61bf2608a23)
+![image](https://github.com/Vip3rLi0n/tukul/assets/21289340/f0299ec5-2d15-45a6-a475-e656583d1a9a)
 ## Minimum Python Version:
 - 3.8
 ## Get start with:
@@ -19,10 +19,10 @@ It involves sending HTTP requests with a fake or manipulated referer (referrer) 
 - python -m pip install -r requirements.txt
 - python tukul.py
 ## Footprints Notes:
--  ISRAHELL ATTACK
+-  PALESTINE SHALL BE FREE!
 ## Author:
 - Vip3r_Li0n
 ## Original Author:
 - magcecu
 ## Contacts:
-[![Forum](https://img.shields.io/badge/-Forum-red)](https://dragonforce.io)
+[![Forum](https://img.shields.io/badge/-Forum-red)](https://www.dragonforce.io/members/vip3r_li0n.12465/)
